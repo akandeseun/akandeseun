@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akandeseun
-- 👀 I’m interested in ...Front-End Web Development
-- 🌱 I’m currently learning ...JavaScript and Tailwind CSS
+- 👀 I’m interested in ...Back-End Web Development
+- 🌱 I’m currently learning ...NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @_akandeseun on twitter
 
