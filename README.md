@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...NodeJS and Express
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-                      @_akandeseun on twitter
                       gbl.akande@gmail.com
 
 <!---
