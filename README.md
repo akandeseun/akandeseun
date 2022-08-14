@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akandeseun
-- 👀 I’m interested in ...Back-End Web Development
+- 👀 I’m interested in ...Backend Web Development
 - 🌱 I’m currently learning ...NodeJS and Express
 - 💞️ I’m looking to collaborate on ... API Projects
 - 📫 How to reach me :
