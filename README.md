@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Backend Web Development
 - 💞️ I’m looking to collaborate on ... API Projects
 - 📫 How to reach me :
-                      gbl.akande@gmail.com
+                      akandeseun44@gmail.com
 
 <!---
 akandeseun/akandeseun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
